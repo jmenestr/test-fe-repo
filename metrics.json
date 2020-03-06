@@ -1,0 +1,9 @@
+{
+  "files": [
+    "./src/**/*.tsx"
+  ],
+  "exclude": [
+    "/tmp/reports.json"
+  ],
+  "importPackage": "@guildeducationinc/recess"
+}
