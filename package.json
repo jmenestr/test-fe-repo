@@ -1,0 +1,11 @@
+{
+  "name": "test-fe-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jmenestr/test-fe-repo.git",
+  "author": "Justin Menestrina <jmenestr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@guildeducationinc/recess": "^5.3.1"
+  }
+}
